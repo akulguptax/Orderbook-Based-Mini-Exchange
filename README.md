@@ -85,4 +85,4 @@ There is a basic ci/cd pipeline that is able to run a test suite. For system/int
 
 ![Client-Gateway Communcation](client_gateway.png "Mini Exchange Architecture Diagram")
 Above is an example of our client-gateway communication. On the left-hand side, is the client running with after a trade was input and sent to the gateway. On the right-hand side, is the gateway that has recieved and is displaying the trade from the client.
-[[[[[[[[[[[[[[[[[[
+
